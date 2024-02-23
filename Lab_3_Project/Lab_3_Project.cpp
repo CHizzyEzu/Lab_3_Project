@@ -12,11 +12,11 @@ int main()
 // Declaring a string variable for my name
 
 	string yourname;
-
+	
 // Reads full name and skips whitespace
 	
-	cout << "Enter your first name:  ";
-	cin >> std::ws >> yourname; 
+	cout << "Enter your full name:  ";
+	getline (cin >> ws, yourname);
 
 // Computer Output
 

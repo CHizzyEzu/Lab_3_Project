@@ -14,12 +14,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -32,9 +28,9 @@
               "RelativeDocumentMoniker": "Lab_3_Project\\Lab_3_Project.cpp",
               "ToolTip": "C:\\Users\\chidi\\source\\repos\\CHizzyEzu\\Lab_3_Project\\Lab_3_Project\\Lab_3_Project.cpp",
               "RelativeToolTip": "Lab_3_Project\\Lab_3_Project.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAAABAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAhAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-02-22T22:14:01.806Z",
+              "WhenOpened": "2024-02-22T23:54:13.122Z",
               "EditorCaption": ""
             }
           ]
